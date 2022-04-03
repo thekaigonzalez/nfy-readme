@@ -2,4 +2,4 @@
 
 NFy is a toolchain for playing structured music & playlists.
 
-**Written in:** Rust (CLI), C++ (libnfy), GDScript (NFy GUI)
+**Written in:** Rust (CLI), C++ (libnfy), GDScript (NFy GUI), C# (NFy Mono Edition)
